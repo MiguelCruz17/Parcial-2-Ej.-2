@@ -1,0 +1,16 @@
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\Parcial-2-Ej.-2.exe
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\Parcial-2-Ej.-2.deps.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\Parcial-2-Ej.-2.runtimeconfig.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\Parcial-2-Ej.-2.runtimeconfig.dev.json
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\Parcial-2-Ej.-2.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\ref\Parcial-2-Ej.-2.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\bin\Debug\net5.0\Parcial-2-Ej.-2.pdb
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.csprojAssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.AssemblyInfoInputs.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.AssemblyInfo.cs
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\ref\Parcial-2-Ej.-2.dll
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.pdb
+C:\Users\migue\OneDrive\Documentos\ITLA\2do Cuatrimestre\Materias\Fundamentos de la Programación\Parcial 2 Ej.2\Parcial-2-Ej.-2\obj\Debug\net5.0\Parcial-2-Ej.-2.genruntimeconfig.cache
